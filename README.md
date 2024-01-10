@@ -19,20 +19,16 @@
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/prettygenius/todoparttwo.git
-   cd react-to-do
-
-   Install dependencies:
-
+```bash
+git clone https://github.com/prettygenius/todoparttwo.git
+cd react-to-do
+```
+Install dependencies:
 ```
 npm install
-
 ```
-
 ``` 
 npm run dev
-
 ```
 # React + Vite
 
